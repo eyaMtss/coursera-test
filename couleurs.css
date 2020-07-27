@@ -1,0 +1,19 @@
+.title{
+  font-style: italic;
+  margin-left: 60px;
+}
+
+body{
+  font-size:20px
+}
+
+
+.bold{
+  font-weight:bold
+}
+
+.headers{
+  background-color: #dcdcba;
+  color:white;
+  border-radius:10px
+}
